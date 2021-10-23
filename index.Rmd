@@ -101,7 +101,61 @@ As firmas mais produtivas ganharam parcelas de mercado durante o processo de abe
 knitr::include_graphics("img/logo.fw.png")
 
 ```
-#  Muito obrigado !
+# Abertura e mercado de trabalho
+
+
+
+---
+```{r echo=FALSE, fig.align='right', out.width="15%"}
+knitr::include_graphics("img/logo.fw.png")
+
+```
+## Inovações e crescimento econômico
+
+- Um dos maiores determinantes do crescimento econômico no longo prazo é
+o crescimento da produtividade.
+
+- Medida em termos de produtividade do trabalho (PIB por trabalhador), a evolução
+da produtividade brasileira equipara-se à de países como México, Indonésia e
+Turquia, permanecendo, no entanto, bastante atrás de outros Brics, como Rússia, Índia e China.
+
+- O nosso problema de produtividade foi agravado pelas transformações estruturais que ocorreram na economia brasileira.
+
+- No Brasil, a produtividade do trabalho na indústria de transformação permaneceu estagnada entre 1980 e 2005, nos Estados Unidos ela quase triplicou e na Coreia do Sul mais do que quintuplicou.
+
+- Uma primeira parte dessa resposta pode ser encontrada por meio da comparação internacional dos dispêndios em pesquisa e desenvolvimento (P&D).
+
+---
+```{r echo=FALSE, fig.align='right', out.width="15%"}
+knitr::include_graphics("img/logo.fw.png")
+
+```
+<p align="center">                        <!--largura--> <!--Altura-->
+    <img src="img/branco.png" alt="Image" width="800" height="80" />
+</p>
+
+- Outro limitador importante das atividades de inovação é a baixa capacidade
+das empresas de absorção de novos conhecimentos, dados o baixo nível educacional dos seus trabalhadores e a reduzida participação de engenheiros, mestres e doutores em seus quadros.
+
+- Além disso, o Brasil tem um problema muito sério de práticas gerenciais atrasadas.
+
+<p align="center">                        <!--largura--> <!--Altura-->
+    <img src="img/tabela14.jpeg" alt="Image" width="500" height="150" />
+</p>
+---
+```{r echo=FALSE, fig.align='right', out.width="15%"}
+knitr::include_graphics("img/logo.fw.png")
+```
+<p align="center">                        <!--largura--> <!--Altura-->
+    <img src="img/tabela2.jpeg" alt="Image" width="550" height=380" />
+</p>
+
+---
+```{r echo=FALSE, fig.align='right', out.width="15%"}
+knitr::include_graphics("img/logo.fw.png")
+
+```
+# Muito Obrigado !
 
 ---
 ```{r echo=FALSE, fig.align='right', out.width="15%"}
