@@ -5,13 +5,13 @@ Discentes:
 
 Lucas Eduardo Rosolem
 
-Felipe eduardo Doná
+Felipe Eduardo Doná
 
 Daniel Fantazini Sarmento
 
-Ismael valemtim Carbinatti junior
+Ismael Valentim Carbinatti Junior
 
-Lucas Gabriel martins Pereira
+Lucas Gabriel Martins Pereira
 ________________________________________________________________
 A apresentação você pode conferir [aqui](https://bit.ly/3prX0Ql)
 
